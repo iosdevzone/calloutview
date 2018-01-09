@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		307CEA2F20044F3A009C1CF4 /* SMCalloutView.h in Headers */ = {isa = PBXBuildFile; fileRef = 307CEA2D20044F3A009C1CF4 /* SMCalloutView.h */; };
+		307CEA2F20044F3A009C1CF4 /* SMCalloutView.h in Headers */ = {isa = PBXBuildFile; fileRef = 307CEA2D20044F3A009C1CF4 /* SMCalloutView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		307CEA3020044F3A009C1CF4 /* SMCalloutView.m in Sources */ = {isa = PBXBuildFile; fileRef = 307CEA2E20044F3A009C1CF4 /* SMCalloutView.m */; };
 		307CEA3220044F84009C1CF4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 307CEA3120044F84009C1CF4 /* Info.plist */; };
 /* End PBXBuildFile section */
